@@ -1,1 +1,1 @@
-在这些课程中，我学习了linux的相关命令,git,cmake,和ros等相关知识
+在这些课程中，我学习了linux的相关命令,git,cmake,和ros等相关知识。
